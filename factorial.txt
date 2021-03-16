@@ -1,0 +1,2 @@
+El factorial de 16 es: 20922789888000
+El factorial de 7 es: 5040
